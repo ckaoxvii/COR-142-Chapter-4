@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-About this site
+* Flagler College
+* Fall 2025
+* COR 142 C
+* Chapter 4

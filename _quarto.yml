@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "chapter_4"
+  title: "COR 142 C"
   navbar:
     left:
       - href: index.qmd
