@@ -8,6 +8,7 @@ format:
     toc-location: right
     embed-resources: true
     css: styles.css
+    lightbox: true
 ---
 
 ```{r}
